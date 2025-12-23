@@ -1,58 +1,71 @@
-# 👋 Olá, eu sou o Enrico Hidalgo!
+# 👋 Olá, eu sou o Enrico Hidalgo
 
-🎓 Estudante técnico em informática para internet  
-🌍 Santana de Parnaíba, SP  
-💻 Desenvolvedor FullStack em formação — foco em **JavaScript** e **Node.js**  
-📌 Acredito no poder de projetos práticos para aprender e evoluir
+🎓 Estudante de Informática para Internet  
+💻 Desenvolvedor Full Stack em formação  
+📍 Santana de Parnaíba – SP  
+
+Sou apaixonado por tecnologia e aprendizado prático. Curto entender como as coisas funcionam por trás dos sistemas e transformar ideias em projetos reais.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um estudante apaixonado por tecnologia, sempre buscando aprender novas ferramentas e práticas no desenvolvimento web. No momento estou focado em aprimorar minhas habilidades com **JavaScript** e construir projetos cada vez mais úteis e organizados.:contentReference[oaicite:0]{index=0}
+- Estudante técnico em Informática para Internet  
+- Foco em desenvolvimento web  
+- Sempre aprendendo na prática  
+- Interesse maior em JavaScript e back-end  
 
 ---
 
-## 🛠 Tecnologias que uso
+## 🛠 Tecnologias
 
-- 🟨 **JavaScript**
-- 🟦 **HTML / CSS**
-- ⚡ **Node.js**
-- 📦 APIs e integração de dados
-- 🧠 Lógica de programação e estrutura de projetos
-
----
-
-## 📂 Destaques do meu GitHub
-
-Aqui estão alguns dos meus projetos mais recentes e que você pode explorar agora mesmo:
-
-### 🔹 Projetos próprios
-- **Divisor de Comanda** – ferramenta para dividir conta de restaurante (HTML, CSS, JS) :contentReference[oaicite:1]{index=1}  
-- **Emotions JS** – site interativo que pergunta como você está se sentindo e responde com mensagens motivacionais :contentReference[oaicite:2]{index=2}  
-- **Lista de Tarefas JS** – app de tarefas para organizar seu dia (HTML, CSS, JS) :contentReference[oaicite:3]{index=3}
-
-### 🔹 Projetos que marquei
-- **PokeDexPro** – plataforma interativa para buscar informações de Pokémon usando a PokéAPI :contentReference[oaicite:4]{index=4}
-
-💡 Cada repositório tem um README próprio com instruções e detalhes — vale a pena dar uma olhada!
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
 ---
 
-## 📫 Vamos nos conectar
+## 📊 GitHub Stats
 
-Se quiser trocar uma ideia, colaborar em projetos ou só falar sobre tecnologia:
-
-🔗 [Meu GitHub](https://github.com/EnricoHidalgo) :contentReference[oaicite:5]{index=5}  
-📺 [YouTube](https://www.youtube.com/@RicoOFC) :contentReference[oaicite:6]{index=6}  
-📌 Instagram: enrico.hidalgo :contentReference[oaicite:7]{index=7}
-
----
-
-## ⚡ Curiosidade
-
-Estou sempre adicionando novos projetos e melhorias — o GitHub é meu espaço para aprender e mostrar meu crescimento 🧩
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnricoHidalgo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoHidalgo&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
-Obrigado por visitar! 🌟
+## 📂 Projetos em destaque
+
+🔹 **Divisor de Comanda**  
+Ferramenta simples para dividir contas  
+Tecnologias: HTML, CSS, JavaScript  
+
+🔹 **Emotions JS**  
+Site interativo baseado no humor do usuário  
+Tecnologias: HTML, CSS, JavaScript  
+
+🔹 **Lista de Tarefas**  
+Aplicação para organização do dia a dia  
+Tecnologias: HTML, CSS, JavaScript  
+
+🔹 **PokeDex (PokéAPI)**  
+Busca de Pokémon utilizando API  
+Tecnologias: JavaScript, API REST  
+
+---
+
+## 📫 Contato
+
+- 💼 GitHub: https://github.com/EnricoHidalgo  
+- 📧 Email: enricohidalgoperes11@gmail.com  
+
+---
+
+## ⚡ Em constante evolução
+
+Esse perfil é basicamente meu progresso como dev.  
+Sempre adicionando projetos novos, aprendizados e melhorias 🚀
