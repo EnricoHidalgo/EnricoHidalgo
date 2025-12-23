@@ -1,10 +1,8 @@
 # 👋 Enrico Hidalgo
 
-💻 Formado Informática para Internet  
-🚀 Desenvolvedor Full Stack em formação  
-📍 SP – Brasil  
-
-Curto desenvolvimento web, aprender na prática e transformar ideias em projetos.
+🎓 Estudante de Informática para Internet  
+💻 Desenvolvedor Web em formação  
+📍 Santana de Parnaíba – SP  
 
 ---
 
@@ -20,12 +18,11 @@ Curto desenvolvimento web, aprender na prática e transformar ideias em projetos
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=EnricoHidalgo&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EnricoHidalgo&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoHidalgo&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoHidalgo&layout=compact&theme=dark" />
 
 ---
 
 📫 **Contato**  
-📧 enricohidalgoperes11@gmail.com  
-💼 https://github.com/EnricoHidalgo
+enricohidalgoperes11@gmail.com  
