@@ -1,6 +1,6 @@
 # 👋 Enrico Hidalgo
 
-💻 Formado em Informática para Internet | Dev Full Stack em formação  
+💻 Cursando Análise e Desenvolvimento de Sistemas | Dev Full Stack em formação  
 📍 SP – Brasil  
 
 ## 🛠 Tecnologias
