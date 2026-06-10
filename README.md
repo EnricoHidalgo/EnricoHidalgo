@@ -9,4 +9,8 @@
 ## 📊 GitHub Stats
 <img src="https://streak-stats.demolab.com?user=EnricoHidalgo"/>
 
+## 🔗 **Acesse meu site!**
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://enricohidalgodev.lovable.app/)
+
+
 📫 **Contato:** enricohidalgoperes11@gmail.com
