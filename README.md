@@ -59,7 +59,6 @@ Chrome Extensions (Manifest V3) · Python
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=EnricoHidalgo&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoHidalgo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
