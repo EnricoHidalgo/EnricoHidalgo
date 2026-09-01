@@ -14,11 +14,11 @@
 
 ## Sobre mim
 
-Estudante de ADS que aprendeu na prática — dentro de uma operação real, com usuários reais reclamando em tempo real.
+Estudante de ADS que aprendeu na prática, dentro de uma operação real, com usuários reais e problemas acontecendo em tempo real.
 
-Hoje trabalho na área de **Tecnologia da A&M**, onde ajudo a manter e evoluir os sistemas internos que sustentam o dia a dia da empresa: do CRM comercial ao sistema jurídico, passando por automações, integrações de WhatsApp e recursos de IA.
+Hoje trabalho na área de Tecnologia da A&M, onde ajudo a manter e evoluir os sistemas internos usados no dia a dia da empresa. Trabalho com CRM comercial, sistema jurídico, automações, integrações com WhatsApp e recursos de IA.
 
-Meu foco não é só "fazer funcionar". É fazer funcionar **com governança**: documentado, versionado, com rollback, com controle de acesso e com performance medida antes de subir.
+Meu foco não é só fazer funcionar. Também busco manter as coisas organizadas e seguras, com documentação, versionamento, rollback, controle de acesso e acompanhamento de performance antes de colocar algo em produção.
 
 ---
 
