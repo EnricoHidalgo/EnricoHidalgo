@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Dev Full Stack</b> • Análise e Desenvolvimento de Sistemas • São Paulo, Brasil<br/>
-  Construindo sistemas internos de verdade — CRM, jurídico, automação e IA aplicada.
+  Construindo sistemas internos de verdade | CRM, jurídico, automação e IA aplicada.
 </p>
 
 <p align="center">
